@@ -1,6 +1,11 @@
-streamlit==1.30.0
-nltk==3.8.1
-wordcloud==1.9.3
-matplotlib==3.8.2
-pandas==2.2.2
-chardet==5.2.0
+streamlit>=1.28.0
+pandas>=1.5.0
+numpy>=1.21.0
+plotly>=5.0.0
+wordcloud>=1.9.0
+matplotlib>=3.5.0
+nltk>=3.8
+keyness
+Pillow>=9.0.0
+scipy>=1.9.0
+chardet>=5.0.0
