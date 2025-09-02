@@ -1,7 +1,7 @@
 # 🔬 Uhlelo Lokuhlaziya Ikhophasi YesiZulu
 ## IsiZulu Corpus Analysis Toolkit
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://uhlumagama.streamlit.app)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![NLTK](https://img.shields.io/badge/NLTK-3.8+-green.svg)](https://www.nltk.org/)
@@ -53,7 +53,7 @@ pip package manager
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/isizulu-corpus-analyzer.git
+   git clone https://github.com/sakhileofmars/isizulu-corpus-analyzer.git
    cd isizulu-corpus-analyzer
    ```
 
@@ -182,12 +182,12 @@ isizulu-corpus-analyzer/
 If you use this tool in academic research, please cite:
 
 ```bibtex
-@software{buthelezi_zungu_2024_isizulu_analyzer,
+@software{buthelezi_zungu_2025_isizulu_analyzer,
   author       = {Buthelezi, Mthuli Percival and Zungu, Sakhile Marcus},
   title        = {Uhlelo Lokuhlaziya Ikhophasi YesiZulu: IsiZulu Corpus Analysis Toolkit},
-  year         = {2024},
+  year         = {2025},
   publisher    = {GitHub},
-  url          = {https://github.com/yourusername/isizulu-corpus-analyzer}
+  url          = {https://github.com/sakhileofmars/isizulu-corpus-analyzer}
 }
 ```
 
